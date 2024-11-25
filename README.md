@@ -1,5 +1,6 @@
 # ProjectB
 Apartment Manager
+
 Backend Deployment
 1.	Clone the Repository:
 ○	Run: git clone https://github.com/giang6996/COS40006---Backend.git.
