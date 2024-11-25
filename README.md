@@ -1,6 +1,4 @@
-Certainly! Here is a cleaned-up version of your deployment instructions for a GitHub README file:
 
----
 
 # ProjectB
 
